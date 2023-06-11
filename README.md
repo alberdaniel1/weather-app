@@ -1,6 +1,6 @@
 # weather-app
 
-
+![Image](./image/Screenshot%202023-06-10%20at%208.43.50%20PM.png)
 ## Features
 
 - The application is loaded and a welcome page is displayed with a greeting and on the sidebar the user can find the search input;
@@ -11,7 +11,6 @@
 - The results for the searched cities are stoared at users local storage and a clear history button clear the local storage if user desire.
 
 
-## Development
 
 ## Authors
 
